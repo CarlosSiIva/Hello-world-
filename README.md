@@ -1,6 +1,4 @@
-# Olá, Mundo
- Primeiro repositório versionado do curso de Git e Github
+# Hello, World!
 
- Repositório criado durante uma aula ao vivo.
-
-Alterei diretamento no GithubWeb
+ Repositório dedicado aos estudos HTML/CSS e JavaScript!
+ 
